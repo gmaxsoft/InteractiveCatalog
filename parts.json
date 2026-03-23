@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "partNumber": "345202",
+    "quantity": 1,
+    "description": "Cylinder housing R/H",
+    "x": 0,
+    "y": 0
+  },
+  {
+    "id": 2,
+    "partNumber": "345201",
+    "quantity": 1,
+    "description": "Cylinder housing L/H",
+    "x": 0,
+    "y": 0
+  },
+  {
+    "id": 3,
+    "partNumber": "30117",
+    "quantity": 1,
+    "description": "Shaft tipping arm R/H",
+    "x": 0,
+    "y": 0
+  },
+  {
+    "id": 4,
+    "partNumber": "30116",
+    "quantity": 1,
+    "description": "Shaft tipping arm L/H",
+    "x": 0,
+    "y": 0
+  },
+  {
+    "id": 5,
+    "partNumber": "30128",
+    "quantity": 4,
+    "description": "Strip locking",
+    "x": 0,
+    "y": 0
+  },
+  {
+    "id": 6,
+    "partNumber": "38834",
+    "quantity": 2,
+    "description": "Shaft",
+    "x": 0,
+    "y": 0
+  },
+  {
+    "id": 7,
+    "partNumber": "345127",
+    "quantity": 2,
+    "description": "Essieu",
+    "x": 0,
+    "y": 0
+  },
+  {
+    "id": 8,
+    "partNumber": "341246",
+    "quantity": 2,
+    "description": "Locking plate",
+    "x": 0,
+    "y": 0
+  },
+  {
+    "id": 9,
+    "partNumber": "345294",
+    "quantity": 2,
+    "description": "Footboard mounting",
+    "x": 0,
+    "y": 0
+  }
+]
